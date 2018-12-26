@@ -109,12 +109,12 @@ author:
   location         : "Jammu, Jammu and Kashmir"
   email            :
   links:
-    - label: "Email"
+    - label: "ashishmehraaug@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:ashishmehraaug@gmail.com
-    - label: "Website"
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
-      url: "http://thesemicolon.club"
+      url: "http://thesemicolon.club/ashish-kumar"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
