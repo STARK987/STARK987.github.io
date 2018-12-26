@@ -23,7 +23,7 @@ description              : "My online Resume"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teas.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,11 +107,8 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Full-Stack Developer"
   location         : "Jammu, Jammu and Kashmir"
-  email            :
+  email            : "ashishmehraaug@gmail.com"
   links:
-    - label: "ashishmehraaug@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ashishmehraaug@gmail.com
     - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "http://thesemicolon.club/ashish-kumar"
@@ -126,7 +123,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/ashish.kumar.97"
 
 # Site Footer
 footer:
